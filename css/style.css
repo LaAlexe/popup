@@ -1,0 +1,16 @@
+
+.hidden {
+	display: none;
+}
+form {
+	padding: 50px 20px;
+	background-color: #fff;
+	max-width: 320px;
+	margin: auto;
+	position: relative;
+}
+
+form input {
+	width: 100%;
+	margin-bottom: 10px;
+}
